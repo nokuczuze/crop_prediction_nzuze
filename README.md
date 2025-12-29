@@ -3,6 +3,9 @@ Maine Crop Production & Weather Analysis
 **Project Overview**
 
 This project investigates the relationship between agricultural crop production and weekly weather conditions in the state of Maine. Using publicly available USDA datasets, we collected and analyzed production and weather data, then applied machine-learning models to predict crop production.
+This project was completed as part of a group assignment for DCS 211: Computing for Insight. This repository only includes my contributions.
+
+The team included: Mehar, Juan Carlos, Yuka
 
 The workflow integrates:
 
